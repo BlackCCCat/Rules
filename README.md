@@ -2,8 +2,7 @@
 # 说明
 收集Surge\Loon\Quantumult X\Stash\Shadowrocket等规则
 # 分类
-命名规则为appname_rulename.list
+Surge相关内容：[Surge](https://github.com/BlackCCCat/Rules/tree/0886594eb9a178d60979fcd628920fcb527971bf/Surge/Stun)
 
-[surge_stun.list](https://raw.githubusercontent.com/BlackCCCat/Rules/main/surge_stun.list)为surge的名为`stun`的规则
 # 其他
 待补充
