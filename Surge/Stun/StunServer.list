@@ -504,6 +504,6 @@ DOMAIN,stun1.voiceeclipse.net
 DOMAIN,stun2.l.google.com
 DOMAIN,stun3.l.google.com
 DOMAIN,stun4.l.google.com
-DOMAIN-SUFFIX,stunt.com
 DOMAIN-SUFFIX,stunserver.org
+DOMAIN-SUFFIX,stunt.com
 IP-CIDR,23.21.150.121/32
