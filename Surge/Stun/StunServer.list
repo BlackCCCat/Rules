@@ -15,7 +15,8 @@ DOMAIN,stun.ippi.fr
 DOMAIN,stun.yesdates.com
 DOMAIN,stun.marcelproust.it
 DOMAIN,stun.redworks.nl
-DOMAIN,stun.voipDOMAIN,stunt.com
+DOMAIN,stun.voip
+DOMAIN,stunt.com
 DOMAIN,stun.voipplanet.nl
 DOMAIN,stun.babelforce.com
 DOMAIN,stun.voipblast.com
@@ -348,7 +349,6 @@ DOMAIN,stun.sip.us
 DOMAIN,stun.galeriemagnet.at
 DOMAIN,stun.fixup.net
 DOMAIN,stun.taxsee.com
-DOMAIN,23.21.150.121
 DOMAIN,numb.viagenie.ca
 DOMAIN,s1.taraba.net
 DOMAIN,s2.taraba.net
@@ -500,4 +500,5 @@ DOMAIN,stun.zadv.com
 DOMAIN,stun.zoiper.com
 DOMAIN,stun1.faktortel.com.au
 DOMAIN,stun1.voiceeclipse.net
-DOMAIN,stunserver.org
+DOMAIN-SUFFIX,stunserver.org
+IP-CIDR,23.21.150.121/32
