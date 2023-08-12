@@ -1,9 +1,9 @@
 /*
- * 本脚本旨在获取当日的黄历，支持Surge(Panel,Cron),Stash(Tile,Cron),Loon,QuantumultX,Shadowrocket
- * @author: zqzess
- * 仓库地址：https://github.com/zqzess/rule_for_quantumultX
- * 感谢@chavyleung提供的Env
- * 定时任务添加： 0 7,10 * * * https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/js/Mine/wnCalendar/wnCalendar.js
+ * 本脚本旨在获取当日的黄历，修改自@zqzess的脚本：https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/js/Mine/wnCalendar/wnCalendar.js
+ * @author: BlackCCCat
+ * 仓库地址：https://github.com/BlackCCCat/Rules
+ * 感谢@zqzess提供的原代码，感谢@chavyleung提供的Env
+ * 定时任务添加： 0 7,10 * * * https://raw.githubusercontent.com/BlackCCCat/Rules/main/Surge/wnClendar.js
  */
 const $ = new Env('wnCalendar', true)
 let title = '📅 今日黄历'
