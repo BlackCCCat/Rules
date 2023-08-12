@@ -12,7 +12,7 @@ let url = 'https://raw.githubusercontent.com/zqzess/openApiData/main/calendar/'
 let date = new Date()
 // date = date.toLocaleDateString() // 2023/1/17
 
-_date = date.toLocaleDateString()
+let _date = date.toLocaleDateString()
 const regex = /^(\d{4})\/(\d{1,2})\/(\d{1,2})$/;
 
 // 判断日期格式是否正确，不是yyyy/MM/dd格式的话进行调整
