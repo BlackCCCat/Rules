@@ -4,5 +4,5 @@
 # 分类
 Surge相关内容：https://github.com/BlackCCCat/Rules/tree/main/Surge
 
-# 其他
-待补充
+# 脚本
+今日黄历：https://github.com/BlackCCCat/Rules/blob/main/Surge/wnCalendar.js
