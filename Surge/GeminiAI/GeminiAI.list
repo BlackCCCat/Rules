@@ -1,11 +1,12 @@
-# DOMAIN:8
-# TOTAL: 8
-cloud.google.com
+# DOMAIN: 15
+# TOTAL: 15
+.cloud.google.com
 ai.google.dev
+develpoers.google.com
 makersuite.google.com
 aistudio.google.com
 aistudio.googleapis.com
-aistudio.googleusercontent.com
+.googleusercontent.com
 gemini.google.com
 gemini.208.67.220.142.nip.io
 .clients1.google.com
@@ -14,7 +15,3 @@ gemini.208.67.220.142.nip.io
 .clients4.google.com
 .clients5.google.com
 .clients6.google.com
-fonts.gstatic.com
-fonts.googleapis.com
-api.google.com
-imap.gmail.com
