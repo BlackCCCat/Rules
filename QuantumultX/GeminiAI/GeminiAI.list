@@ -1,0 +1,17 @@
+# DOMAIN: 15
+# TOTAL: 15
+host-suffix,cloud.google.com
+host,ai.google.dev
+host,develpoers.google.com
+host,makersuite.google.com
+host,aistudio.google.com
+host,aistudio.googleapis.com
+host-suffix,googleusercontent.com
+host,gemini.google.com
+host,gemini.208.67.220.142.nip.io
+host-suffix,clients1.google.com
+host-suffix,clients2.google.com
+host-suffix,clients3.google.com
+host-suffix,clients4.google.com
+host-suffix,clients5.google.com
+host-suffix,clients6.google.com
